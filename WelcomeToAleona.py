@@ -45,7 +45,7 @@ def flamontQuiz():
             index = None
             )
         question2 = st.radio(
-            "This country's top soldiers are call the Pillars.",
+            "This country's top soldiers are call the?",
             ["The Elders", "The Pillars", "Infernal Knights"],
             index = None
             )
@@ -139,7 +139,7 @@ def marshlenQuiz():
             index = None
             )
         question2 = st.radio(
-            "How many stars on the Marshlen Flag?",
+            "How many stars are on the Marshlen Flag?",
             ["6", "7", "8", "5"],
             index = None
             )
@@ -154,7 +154,7 @@ def marshlenQuiz():
             index = None
             )
         question5 = st.radio(
-            "How many religions are practiced in Marshlen.",
+            "How many religions are practiced in Marshlen?",
             ["7", "2", "3", "5"],
             index = None
             )
