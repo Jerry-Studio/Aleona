@@ -31,7 +31,7 @@ InfernaDict = { "Capital": "Helen, Chimera",
                 }
 
 Marshlen1 = "Welcome to Marshlen, the oldest country in Aleona. This country is home to six provinces: Carlister, Botherston, Naliasta, Perston, Obordia, and Bragapin.\n"
-Marshlen2 = "As of the current year, these provinces are locked in a fierce civil war to decide wwhich province will lead the country going forward.\n"
+Marshlen2 = "As of the current year, these provinces are locked in a fierce civil war to decide which province will lead the country going forward.\n"
 Marshlen3 = "Out of all the countries in Aleona, Marshlen is the most diverse in terms of cultures and religions. Many people worship, Andrea, Cadenth, Dycan, or follow the Dragonian Faith. However, the main religion remains the Marshlenese traditional beliefs."
 MarshlenDict = { "Capital": "Riverston, Carlister",
                  "Population": "6.7 million",
